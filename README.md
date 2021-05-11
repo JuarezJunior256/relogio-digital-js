@@ -1,0 +1,1 @@
+Projeto com finalidade para estudos, relógio digital com JavaScipt puro.
